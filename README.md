@@ -19,7 +19,7 @@ I focus on writing clean, maintainable, secure, and performance-oriented softwar
 - Python Development
 - Full Stack Web Development
 - Database Design & Management
-- Machine Learning
+- AI & Machine Learning
 - Software Architecture
 - REST API Development
 - Data Analytics

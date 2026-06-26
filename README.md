@@ -43,10 +43,6 @@ I focus on writing clean, maintainable, secure, and performance-oriented softwar
 - Amazon Web Services (AWS)
 - Microsoft Azure
 - Google Cloud Platform (GCP)
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soumyadxxp&show_icons=true&theme=tokyonight"/>
-</p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadxxp&layout=compact&theme=tokyonight"/>
 </p>

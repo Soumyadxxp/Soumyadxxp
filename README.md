@@ -1,6 +1,6 @@
 # Hi 👋 I'm Soumyadeep Basu
 
-### Java Developer | Python Developer | MERN Developer| Full Stack Developer
+### Java Developer | Python Developer | MERN Developer | Full Stack Developer
 
 I am a Software Developer passionate about designing, developing, and maintaining reliable, scalable, and user-friendly software solutions. I enjoy solving real-world problems through technology and building applications that make a meaningful impact.
 
@@ -13,28 +13,33 @@ Beyond Java, I work with **Python** for data processing, machine learning, visua
 I focus on writing clean, maintainable, secure, and performance-oriented software while continuously learning new technologies.
 
 
-## 💼 Areas of Interest
+## 💼 Areas of Interest :
 
-- Java Application Development
-- Desktop Application Development
+- Java Development
+- Python Development
 - Full Stack Web Development
 - Database Design & Management
 - Machine Learning
 - Software Architecture
 - REST API Development
 - Data Analytics
+- Cyber Security
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning :
 
 - React.js
-- Angular.js
+- Angular
 - Node.js
+- Spring Boot
 - C#
 - .NET Framework
--  PHP
--  Laravel
-- Spring Boot
+- PHP
+- Laravel
+- Django
 - Docker
-- Cloud Technologies
+- Jupyter Notebook
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Google Cloud Platform (GCP)

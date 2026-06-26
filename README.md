@@ -105,32 +105,6 @@ I focus on writing clean, maintainable, secure, and performance-oriented softwar
 
 ---
 
-### 🌟 MERN Stack
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-## 🌱 Currently Learning :
-
-- React.js
-- Angular
-- Node.js
-- Spring Boot
-- C#
-- .NET Framework
-- PHP
-- Laravel
-- Django
-- Docker
-- Jupyter Notebook
-- Amazon Web Services (AWS)
-- Microsoft Azure
-- Google Cloud Platform (GCP)
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadxxp&layout=compact&theme=tokyonight"/>
 </p>

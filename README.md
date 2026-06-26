@@ -44,6 +44,9 @@ I focus on writing clean, maintainable, secure, and performance-oriented softwar
 - Microsoft Azure
 - Google Cloud Platform (GCP)
 <p align="center">
+<img src="https://media.giphy.com/media/..." width="700">
+</p>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadxxp&layout=compact&theme=tokyonight"/>
 </p>
 

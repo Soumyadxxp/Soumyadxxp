@@ -113,27 +113,27 @@ I focus on writing clean, maintainable, secure, and performance-oriented softwar
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-## 📫 Connect with Me :
+```html
+## 📫 Connect with Me
 
-<p align="left">
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=basu.soumyadeep25@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
-<a href="mailto:basu.soumyadeep25@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+  <a href="https://www.linkedin.com/in/soumyadeep-basu-90400a361/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/soumyadeep-basu-90400a361/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/Soumyadxxp" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
+  <a href="https://github.com/Soumyadxxp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-* 📧 **Email:** **[basu.soumyadeep25@gmail.com](mailto:basu.soumyadeep25@gmail.com)**
-* 💼 **LinkedIn:** **Click the LinkedIn badge above**
-* 🐙 **GitHub:** **https://github.com/Soumyadxxp**
+<p align="center">
+  💬 <b>I'm always open to collaborating on exciting projects, contributing to open source, discussing software development, and connecting with fellow developers. Feel free to reach out!</b>
+</p>
+```
 
  I'm always open to collaborating on exciting projects, contributing to open-source, discussing software development, and connecting with fellow developers.
 

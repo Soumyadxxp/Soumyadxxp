@@ -26,7 +26,7 @@ I focus on writing clean, maintainable, secure, and performance-oriented softwar
 - Cyber Security
 
 ---
-## 💻 Tech Stack
+## 💻 Tech Stack :
 
 ### Programming Languages :
 

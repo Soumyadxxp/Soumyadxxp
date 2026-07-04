@@ -1,7 +1,7 @@
 # Hi 👋 I'm Soumyadeep Basu
 
-[<img width="200" height="177" alt="image" src="https://github.com/user-attachments/assets/4d79e2d1-9509-4eae-ac1c-9fe35d26e795" />
-](https://private-user-images.githubusercontent.com/142825429/262148121-504fafae-8ea1-449e-a63e-993ce0283d28.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODMyMDI0NzAsIm5iZiI6MTc4MzIwMjE3MCwicGF0aCI6Ii8xNDI4MjU0MjkvMjYyMTQ4MTIxLTUwNGZhZmFlLThlYTEtNDQ5ZS1hNjNlLTk5M2NlMDI4M2QyOC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcwNFQyMTU2MTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYTBhMTVlYzM5M2VkM2Q4MzM1MGQzZTYxNzgwYjUyN2MwMTQ2YWQyNGJjZjliYjY1ZDNhYTUzYjdiYjcyZWIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.uYigEn6i20S7T2y7WupDglaC4uZM2j8YZWoWXSXx2mc)
+<img width="220" height="122" alt="image" src="https://github.com/user-attachments/assets/bd5480fe-3630-4837-a1d7-e6560cbfd40e" />
+
 
 
 I am a Software Developer passionate about designing, developing, and maintaining reliable, scalable, and user-friendly software solutions. I enjoy solving real-world problems through technology and building applications that make a meaningful impact.

@@ -16,7 +16,7 @@ Beyond Java, I work with **Python** for data processing, machine learning, visua
 I focus on writing clean, maintainable, secure, and performance-oriented software while continuously learning new technologies.
 
 
-## 💼 Areas of Interest :
+## Areas of Interest :
 
 - Java Development
 - Python Development
@@ -29,7 +29,7 @@ I focus on writing clean, maintainable, secure, and performance-oriented softwar
 - Cyber Security
 
 ---
-## 💻 Tech Stack :
+## Tech Stack :
 
 ### Programming Languages :
 
@@ -117,7 +117,7 @@ I focus on writing clean, maintainable, secure, and performance-oriented softwar
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ---
-## 📫 Connect with Me :
+## Connect with Me :
 
 <p align="center">
 

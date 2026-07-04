@@ -1,6 +1,9 @@
 # Hi 👋 I'm Soumyadeep Basu
 
-### Java Developer | Python Developer | MERN Developer | Full Stack Developer
+
+<img width="600" height="292" alt="image" src="https://github.com/user-attachments/assets/18a33c89-4c41-463e-94c3-053a111d6feb" />
+
+
 
 I am a Software Developer passionate about designing, developing, and maintaining reliable, scalable, and user-friendly software solutions. I enjoy solving real-world problems through technology and building applications that make a meaningful impact.
 

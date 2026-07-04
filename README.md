@@ -1,7 +1,8 @@
 # Hi 👋 I'm Soumyadeep Basu
 
-<img width="220" height="122" alt="image" src="https://github.com/user-attachments/assets/bd5480fe-3630-4837-a1d7-e6560cbfd40e" />
-
+<p align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" alt="Coding GIF" width="700">
+</p>
 
 
 I am a Software Developer passionate about designing, developing, and maintaining reliable, scalable, and user-friendly software solutions. I enjoy solving real-world problems through technology and building applications that make a meaningful impact.

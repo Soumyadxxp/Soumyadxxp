@@ -1,7 +1,6 @@
 # Hi 👋 I'm Soumyadeep Basu
 
-
-<img width="600" height="292" alt="image" src="https://github.com/user-attachments/assets/18a33c89-4c41-463e-94c3-053a111d6feb" />
+<img width="200" height="177" alt="image" src="https://github.com/user-attachments/assets/4d79e2d1-9509-4eae-ac1c-9fe35d26e795" />
 
 
 

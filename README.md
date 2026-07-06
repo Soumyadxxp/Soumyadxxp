@@ -12,7 +12,7 @@ My primary expertise is in **Java**, where I develop desktop applications using 
 
 I have worked extensively with relational and non-relational (NoSQL)  databases including **OracleDB 10g/11g**, **MySQL**, **SQLite**, and **MongoDB**, with practical knowledge of SQL, NoSQL, PL/SQL, database design, optimization, and enterprise data management.
 
-Beyond Java, I work with **Python** for data processing, machine learning, visualization, and rapid application development using **Pandas**, **NumPy**, **TensorFlow**, **Matplotlib**, **Pillow**, and **Streamlit**.
+Beyond Java, I work with **Python** for data processing, machine learning, visualization, and rapid application development using **Pandas**, **NumPy**, **TensorFlow**, **PyTorch**, **Scikit-learn**, **Matplotlib**, **Pillow**, and **Streamlit**.
 
 I focus on writing clean, maintainable, secure, and performance-oriented software while continuously learning new technologies.
 

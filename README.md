@@ -6,15 +6,7 @@
 </p>
 
 
-I am a Software Developer passionate about designing, developing, and maintaining reliable, scalable, and user-friendly software solutions. I enjoy solving real-world problems through technology and building applications that make a meaningful impact.
-
-My primary expertise is in **Java**, where I develop desktop applications using **Java Swing**, build database-driven applications with **JDBC**, and create robust server-side solutions. I also have experience in modern web development using **HTML5**, **CSS3**, **Tailwind CSS**, and **JavaScript (ES6)** to build responsive and interactive applications.
-
-I have worked extensively with relational and non-relational (NoSQL)  databases including **OracleDB 11g XE**, **MySQL**, **SQLite**, and **MongoDB**, with practical knowledge of SQL, NoSQL, PL/SQL, database design, optimization, and enterprise data management.
-
-Beyond Java, I work with **Python** for data processing, machine learning, visualization, and rapid application development using **Pandas**, **NumPy**, **TensorFlow**, **PyTorch**, **Scikit-learn**, **Matplotlib**, **Pillow**, **Plotly** and **Streamlit**.
-
-I focus on writing clean, maintainable, secure, and performance-oriented software while continuously learning new technologies.
+I am a Software Developer passionate about designing, developing, and maintaining reliable, scalable, and user-friendly software solutions. I enjoy solving real-world problems through technology and building applications that make a meaningful impact. I focus on writing clean, maintainable, secure, and performance-oriented software while continuously learning new technologies.
 
 
 ## Areas of Interest :
@@ -46,7 +38,9 @@ I focus on writing clean, maintainable, secure, and performance-oriented softwar
 </p>
 
 <p align="center">
- <b>I'm always open to collaborating on exciting projects, contributing to open source, discussing software development, and connecting with fellow developers. Feel free to reach out!</b>
+
+  <b>I'm always open to collaborating on exciting projects, contributing to open source, discussing software development, and connecting with fellow developers. Feel free to reach out!</b>
+  
 </p>
 
  

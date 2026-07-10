@@ -1,4 +1,4 @@
-# Hi 👋 I'm Soumyadeep Basu
+# Hi I'm Soumyadeep Basu
 
 
 <p align="center">

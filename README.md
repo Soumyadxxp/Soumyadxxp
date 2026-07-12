@@ -25,10 +25,5 @@ I am a Software Developer passionate about designing, developing, and maintainin
 
 </p>
 
-<p align="center">
-
-  <b>I'm always open to collaborating on exciting projects, contributing to open source, discussing software development, and connecting with fellow developers. Feel free to reach out!</b>
-  
-</p>
 
  

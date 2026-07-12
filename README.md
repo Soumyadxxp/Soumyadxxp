@@ -9,18 +9,6 @@
 I am a Software Developer passionate about designing, developing, and maintaining reliable, scalable, and user-friendly software solutions. I enjoy solving real-world problems through technology and building applications that make a meaningful impact. I focus on writing clean, maintainable, secure, and performance-oriented software while continuously learning new technologies.
 
 
-## Areas of Interest :
-
-- Java Development
-- Python Development
-- Full Stack Web Development
-- Database Design & Management
-- AI & Machine Learning
-- Software Architecture
-- REST API Development
-- Data Analytics
-- Cyber Security
-
 ---
 
 ## Connect with Me :

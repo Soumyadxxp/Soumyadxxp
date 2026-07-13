@@ -6,7 +6,7 @@
 </p>
 
 
-I am a Software Developer passionate about designing, developing, and maintaining reliable, scalable, and user-friendly software solutions. I enjoy solving real-world problems through technology and building applications that make a meaningful impact. I focus on writing clean, maintainable, secure, and performance-oriented software while continuously learning new technologies.
+I am a Software Developer with a strong interest in  designing, developing, and maintaining reliable, scalable, and user-friendly software solutions. I enjoy solving real-world problems through technology and building applications that make a meaningful impact. I focus on writing clean, maintainable, secure, and performance-oriented software while continuously learning new technologies.
 
 
 ---
